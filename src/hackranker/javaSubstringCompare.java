@@ -1,12 +1,8 @@
 package hackranker;
 
-import java.util.ArrayList;
 
 public class javaSubstringCompare {
-	
-//  split string into substrings and save into array
-//  compare all strings to find smallest and largest. Maybe a loop that goes through sets the largest and compares, always reseting largest if needed (king of the hill)
-//  same king of the hill for the smallest?
+
 
 	public static void main(String[] args) {
 
